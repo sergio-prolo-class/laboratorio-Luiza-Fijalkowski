@@ -1,4 +1,4 @@
-/*include <studio.h>   e a diretiva de pre-processamento.
+/*include <stdio.h>   e a diretiva de pre-processamento.
 \n e uma quebra de linha 
 printf  e o escreva é ele que diz o que vai aparecer na tela do leitor
 return diz para o compudar qual valor deve ser retornado caso esteja tudo certo
