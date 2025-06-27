@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+ //esse codigo apresenta as contas de forma errada, A FORMA CORRETA ESTA EM VENDEDOR 2.
 int main(){
 
     float salario, comissão, vendas;
